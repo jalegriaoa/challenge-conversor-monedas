@@ -5,9 +5,19 @@
 
 <h3>Instrucciones de uso</h3>
 ![Menu proyecto](https://pasteboard.co/4MpHOqxCs1J6.png)
-</p>
+
 Al iniciar el proyecto se indicar dos acciones a realizar.
 <ol>
   <li>Iniciar el proyecto</li>
   <li>Salir del proyecto</li>
 </ol>
+
+<p>Al ingresar la opcion 1 el proyecto nos solicita tres datos a ingresa:</p>
+<ol type="A">
+  <li>Tipo moneda origen</li>
+  <li>Tipo moneda destino</li>
+  <li>Monto a convertir</li>
+</ol>
+
+<p>Los tipos de moneda se deben ingresar en un acrónimo de tres caracteres. Por ejemplo el Dolar "USD".</p>
+<p>He aqui un listado de los tipos de monedas admitidos:</p>
