@@ -14,15 +14,15 @@ A) Al iniciar el proyecto se indicar dos acciones a realizar.
 
 B) Al ingresar la opcion 1 el proyecto nos solicita tres datos a ingresa:
 <ol type="a">
-  <li>Tipo moneda origen</li>
-  <li>Tipo moneda destino</li>
+  <li>Codigo moneda origen</li>
+  <li>Codigo moneda destino</li>
   <li>Monto a convertir</li>
 </ol>
 
 C) Los tipos de moneda se deben ingresar en un acrónimo de tres caracteres. Por ejemplo el Dolar "USD".
 <p>He aqui un listado de los tipos de monedas admitidos:</p>
 <table>
-<tbody><tr><td align="left" width="160px"><h6 class="mb-1">Currency Code</h6></td><td align="left" width="250px"><h6 class="mb-1">Currency Name</h6></td><td align="left"><h6 class="mb-1">Country</h6></td></tr>
+<tbody><tr><td align="left" width="160px"><h6 class="mb-1">Codigo Moneda</h6></td><td align="left" width="250px"><h6 class="mb-1">Nombre Moneda</h6></td><td align="left"><h6 class="mb-1">Pais</h6></td></tr>
 <tr><td align="left">AED</td><td align="left">UAE Dirham</td><td align="left">United Arab Emirates</td></tr>
 <tr><td align="left">AFN</td><td align="left">Afghan Afghani</td><td align="left">Afghanistan</td></tr>
 <tr><td align="left">ALL</td><td align="left">Albanian Lek</td><td align="left">Albania</td></tr>
