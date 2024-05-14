@@ -191,5 +191,9 @@ C) Los tipos de moneda se deben ingresar en un acrónimo de tres caracteres. Por
 D) Una vez ingresados los tres parametros nos entrega el monto convertido de la moneda solicitada.
 ![Resultado](https://github.com/jalegriaoa/challenge-conversor-monedas/assets/156724265/e82db31b-caa9-4904-bd62-a431a581527f)
 
+<h3>Errores</h3>
+<p>En caso de error el proyecto tiene controlada las excepciones y envia el siguiente mensaje:</p>
+![Error](https://github.com/jalegriaoa/challenge-conversor-monedas/assets/156724265/092da3eb-99a3-4ecd-ba40-66b90345d904)
 
+<p>Posterior a ello se puede ejecutar el proyecto nuevamente</p>
 
