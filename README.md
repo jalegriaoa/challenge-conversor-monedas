@@ -2,6 +2,8 @@
 
 <h3>Descripción del Proyecto</h3>
 <p>El proyecto conversor monedas permite realizar la conversion de un monto de un tipo de moneda (divisa) a otro a través de una API de Monedas. Para este caso ExchangeRange-API.</p>
+<p>Esta es la version 1.0 y se puede descargar y utilizar para su libre uso.</p>
+<p>Se encuentra en constante desarrollo para futuras mejoras.</p>
 
 <h3>Instrucciones de uso</h3>
 ![Menu](https://github.com/jalegriaoa/challenge-conversor-monedas/assets/156724265/5c86917a-358c-4434-b889-e11d559874ef)
