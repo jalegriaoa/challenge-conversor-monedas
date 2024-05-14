@@ -12,6 +12,8 @@ A) Al iniciar el proyecto se indicar dos acciones a realizar.
   <li>Salir del proyecto</li>
 </ol>
 
+<p>Con la primera opcion accedemos al comenzar el proyecto y con la segunda finalizamos su ejecución.</p>
+
 B) Al ingresar la opcion 1 el proyecto nos solicita tres datos a ingresa:
 <ol type="a">
   <li>Codigo moneda origen</li>
@@ -185,3 +187,9 @@ C) Los tipos de moneda se deben ingresar en un acrónimo de tres caracteres. Por
 <tr><td align="left">ZMW</td><td align="left">Zambian Kwacha</td><td align="left">Zambia</td></tr>
 <tr><td align="left">ZWL</td><td align="left">Zimbabwean Dollar</td><td align="left">Zimbabwe</td></tr>
 </tbody></table>
+
+D) Una vez ingresados los tres parametros nos entrega el monto convertido de la moneda solicitada.
+![Resultado](https://github.com/jalegriaoa/challenge-conversor-monedas/assets/156724265/e82db31b-caa9-4904-bd62-a431a581527f)
+
+
+
